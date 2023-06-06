@@ -1,1 +1,1 @@
-Git basics
+Git basics on how to navigate swiftly
